@@ -1,0 +1,43 @@
+/* Reset some default browser styles */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+  }
+  
+  /* Style the main heading */
+  h1 {
+    color: #0066cc;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  /* Paragraph styling */
+  p {
+    font-size: 16px;
+    line-height: 1.5;
+    padding: 0 20px;
+  }
+  
+  /* Unordered list styling */
+  ul {
+    list-style-type: square;
+    padding: 0 40px;
+  }
+  
+  /* List items */
+  li {
+    margin: 5px 0;
+  }
+  
+  /* Link styling */
+  a {
+    color: #ff6600;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
